@@ -1,9 +1,9 @@
 <pre>
- -[About Me]-----------------------
+ -[About Me]─────────────────────────────────────────────┐
  | Full Stack Develoepr @Nexora
- | chronically onchain
- | I like writing poems, reading books, manga. 
- | Legally Seperated 💔🤍 
+ | 
+ | I like writing poems, reading books, manga, watching movies. I love Brad Pitt btw. 
+ | 
   
 </pre>
 <div align="center">
