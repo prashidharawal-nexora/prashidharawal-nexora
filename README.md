@@ -1,6 +1,6 @@
 <pre>
  -[About Me]─────────────────────────────────────────────┐
- | Full Stack Develoepr @Nexora
+ | Full Stack Develoepr @MadebyNexora
  | 
  | I like writing poems, reading books, manga, watching movies. I love Brad Pitt btw. 
  | I’ve not picked up that in 1,400 days and 9 hours and 16 minutes, it’s kind of my daily iteration 
